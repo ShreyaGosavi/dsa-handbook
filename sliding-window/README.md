@@ -19,6 +19,10 @@
 | # | Problem | Solution |
 |---|---------|----------|
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [0209-minimum-size-subarray-sum.java](shrink%20to%20minimize/0209-minimum-size-subarray-sum.java) |
+| 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [1234-replace-the-substring-for-balanced-string.java](shrink%20to%20minimize/1234-replace-the-substring-for-balanced-string.java) |
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [1358-number-of-substrings-containing-all-three-characters.java](shrink%20to%20minimize/1358-number-of-substrings-containing-all-three-characters.java) |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [1658-minimum-operations-to-reduce-x-to-zero.java](shrink%20to%20minimize/1658-minimum-operations-to-reduce-x-to-zero.java) |
+| 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | [2516-take-k-of-each-character-from-left-and-right.java](shrink%20to%20minimize/2516-take-k-of-each-character-from-left-and-right.java) |
 
-**Total: 9**
+**Total: 13**
 <!-- AUTO:END -->
