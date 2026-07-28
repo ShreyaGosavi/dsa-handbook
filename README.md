@@ -20,10 +20,10 @@
 | [prefix-sum](prefix-sum) | — | 0 |
 | [queue](queue) | — | 0 |
 | [segment-tree](segment-tree) | — | 0 |
-| [sliding-window](sliding-window) | fixed-sized-window, shrink to minimize | 13 |
+| [sliding-window](sliding-window) | expand-to-maximize, fixed-sized-window, shrink to minimize | 23 |
 | [stack](stack) | — | 0 |
 | [trees](trees) | — | 0 |
 | [trie](trie) | — | 0 |
 | [two-pointers](two-pointers) | — | 0 |
-| **Total** | | **15** |
+| **Total** | | **25** |
 <!-- AUTO:END -->
