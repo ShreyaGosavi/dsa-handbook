@@ -8,6 +8,17 @@
 | 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | [2062-count-vowel-substrings-of-a-string.java](atleast-k/2062-count-vowel-substrings-of-a-string.java) |
 | 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.java](atleast-k/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.java) |
 
+### 🧩 atmost-k-trick
+
+| # | Problem | Solution |
+|---|---------|----------|
+| 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [0930-binary-subarrays-with-sum.java](atmost-k-trick/0930-binary-subarrays-with-sum.java) |
+| 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [0992-subarrays-with-k-different-integers.java](atmost-k-trick/0992-subarrays-with-k-different-integers.java) |
+| 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [1248-count-number-of-nice-subarrays.java](atmost-k-trick/1248-count-number-of-nice-subarrays.java) |
+| 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | [2062-count-vowel-substrings-of-a-string.java](atmost-k-trick/2062-count-vowel-substrings-of-a-string.java) |
+| 3305 | [Count of Substrings Containing Every Vowel and K Consonants I](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/) | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i.java](atmost-k-trick/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i.java) |
+| 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.java](atmost-k-trick/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.java) |
+
 ### 🧩 expand-to-maximize
 
 | # | Problem | Solution |
@@ -46,5 +57,5 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [1658-minimum-operations-to-reduce-x-to-zero.java](shrink%20to%20minimize/1658-minimum-operations-to-reduce-x-to-zero.java) |
 | 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | [2516-take-k-of-each-character-from-left-and-right.java](shrink%20to%20minimize/2516-take-k-of-each-character-from-left-and-right.java) |
 
-**Total: 25**
+**Total: 31**
 <!-- AUTO:END -->
