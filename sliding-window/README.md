@@ -1,6 +1,13 @@
 <!-- AUTO:START -->
 ## 📌 Solved problems
 
+### 🧩 atleast-k
+
+| # | Problem | Solution |
+|---|---------|----------|
+| 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | [2062-count-vowel-substrings-of-a-string.java](atleast-k/2062-count-vowel-substrings-of-a-string.java) |
+| 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/) | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.java](atleast-k/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii.java) |
+
 ### 🧩 expand-to-maximize
 
 | # | Problem | Solution |
@@ -39,5 +46,5 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [1658-minimum-operations-to-reduce-x-to-zero.java](shrink%20to%20minimize/1658-minimum-operations-to-reduce-x-to-zero.java) |
 | 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | [2516-take-k-of-each-character-from-left-and-right.java](shrink%20to%20minimize/2516-take-k-of-each-character-from-left-and-right.java) |
 
-**Total: 23**
+**Total: 25**
 <!-- AUTO:END -->
