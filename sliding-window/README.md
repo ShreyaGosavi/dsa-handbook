@@ -49,6 +49,7 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [0438-find-all-anagrams-in-a-string-2.java](frequency-matching-window/0438-find-all-anagrams-in-a-string-2.java) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [0438-find-all-anagrams-in-a-string.java](frequency-matching-window/0438-find-all-anagrams-in-a-string.java) |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [0567-permutation-in-string.java](frequency-matching-window/0567-permutation-in-string.java) |
 
@@ -62,5 +63,5 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [1658-minimum-operations-to-reduce-x-to-zero.java](shrink%20to%20minimize/1658-minimum-operations-to-reduce-x-to-zero.java) |
 | 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | [2516-take-k-of-each-character-from-left-and-right.java](shrink%20to%20minimize/2516-take-k-of-each-character-from-left-and-right.java) |
 
-**Total: 31**
+**Total: 32**
 <!-- AUTO:END -->
