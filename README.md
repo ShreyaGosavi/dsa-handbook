@@ -9,7 +9,7 @@
 | [binary-search](binary-search) | — | 0 |
 | [bit-manipulation](bit-manipulation) | — | 0 |
 | [bst](bst) | — | 0 |
-| [dynamic-programming](dynamic-programming) | Subsequence-pattern | 4 |
+| [dynamic-programming](dynamic-programming) | Subsequence-pattern | 6 |
 | [graph](graph) | — | 0 |
 | [greedy](greedy) | — | 0 |
 | [hashing](hashing) | — | 0 |
@@ -20,7 +20,7 @@
 | [prefix-sum](prefix-sum) | — | 0 |
 | [queue](queue) | — | 0 |
 | [segment-tree](segment-tree) | — | 0 |
-| [sliding-window](sliding-window) | atleast-k, atmost-k-trick, expand-to-maximize, fixed-sized-window, shrink to minimize | 31 |
+| [sliding-window](sliding-window) | atleast-k, atmost-k-trick, expand-to-maximize, fixed-sized-window, shrink to minimize | 29 |
 | [stack](stack) | — | 0 |
 | [trees](trees) | — | 0 |
 | [trie](trie) | — | 0 |
