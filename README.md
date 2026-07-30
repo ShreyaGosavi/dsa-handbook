@@ -1,7 +1,7 @@
 
 
 <!-- AUTO:START -->
-## 📊 Progress
+## Progress
 
 | Topic | Patterns | Solved |
 |-------|----------|--------|
@@ -9,7 +9,7 @@
 | [binary-search](binary-search) | — | 0 |
 | [bit-manipulation](bit-manipulation) | — | 0 |
 | [bst](bst) | — | 0 |
-| [dynamic-programming](dynamic-programming) | Subsequence-pattern | 6 |
+| [dynamic-programming](dynamic-programming) | Subsequence-pattern | 8 |
 | [graph](graph) | — | 0 |
 | [greedy](greedy) | — | 0 |
 | [hashing](hashing) | — | 0 |
@@ -25,5 +25,5 @@
 | [trees](trees) | — | 0 |
 | [trie](trie) | — | 0 |
 | [two-pointers](two-pointers) | — | 0 |
-| **Total** | | **35** |
+| **Total** | | **37** |
 <!-- AUTO:END -->
