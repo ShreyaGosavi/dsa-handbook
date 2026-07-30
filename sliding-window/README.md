@@ -16,6 +16,7 @@
 | 992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [0992-subarrays-with-k-different-integers.java](atmost-k-trick/0992-subarrays-with-k-different-integers.java) |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [1248-count-number-of-nice-subarrays.java](atmost-k-trick/1248-count-number-of-nice-subarrays.java) |
 | 3305 | [Count of Substrings Containing Every Vowel and K Consonants I](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/) | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i.java](atmost-k-trick/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i.java) |
+
 ### 🧩 expand-to-maximize
 
 | # | Problem | Solution |
@@ -43,6 +44,13 @@
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [1456-maximum-number-of-vowels-in-a-substring-of-given-length.java](fixed-sized-window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.java) |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [1876-substrings-of-size-three-with-distinct-characters.java](fixed-sized-window/1876-substrings-of-size-three-with-distinct-characters.java) |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [2461-maximum-sum-of-distinct-subarrays-with-length-k.java](fixed-sized-window/2461-maximum-sum-of-distinct-subarrays-with-length-k.java) |
+
+### 🧩 frequency-matching-window
+
+| # | Problem | Solution |
+|---|---------|----------|
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [0438-find-all-anagrams-in-a-string.java](frequency-matching-window/0438-find-all-anagrams-in-a-string.java) |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [0567-permutation-in-string.java](frequency-matching-window/0567-permutation-in-string.java) |
 
 ### 🧩 shrink to minimize
 
