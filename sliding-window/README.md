@@ -49,9 +49,13 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [0030-substring-with-concatenation-of-all-words.java](frequency-matching-window/0030-substring-with-concatenation-of-all-words.java) |
+| 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [0187-repeated-dna-sequences.java](frequency-matching-window/0187-repeated-dna-sequences.java) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [0438-find-all-anagrams-in-a-string-2.java](frequency-matching-window/0438-find-all-anagrams-in-a-string-2.java) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [0438-find-all-anagrams-in-a-string.java](frequency-matching-window/0438-find-all-anagrams-in-a-string.java) |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [0567-permutation-in-string.java](frequency-matching-window/0567-permutation-in-string.java) |
+| 1297 | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | [1297-maximum-number-of-occurrences-of-a-substring.java](frequency-matching-window/1297-maximum-number-of-occurrences-of-a-substring.java) |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [1461-check-if-a-string-contains-all-binary-codes-of-size-k.java](frequency-matching-window/1461-check-if-a-string-contains-all-binary-codes-of-size-k.java) |
 
 ### 🧩 shrink to minimize
 
@@ -63,5 +67,5 @@
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [1658-minimum-operations-to-reduce-x-to-zero.java](shrink%20to%20minimize/1658-minimum-operations-to-reduce-x-to-zero.java) |
 | 2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | [2516-take-k-of-each-character-from-left-and-right.java](shrink%20to%20minimize/2516-take-k-of-each-character-from-left-and-right.java) |
 
-**Total: 32**
+**Total: 36**
 <!-- AUTO:END -->
