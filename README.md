@@ -9,7 +9,7 @@
 | [binary-search](binary-search) | — | 0 |
 | [bit-manipulation](bit-manipulation) | — | 0 |
 | [bst](bst) | — | 0 |
-| [dynamic-programming](dynamic-programming) | Subsequence-pattern | 8 |
+| [dynamic-programming](dynamic-programming) | Choose-next, Subsequence-pattern | 16 |
 | [graph](graph) | — | 0 |
 | [greedy](greedy) | — | 0 |
 | [hashing](hashing) | — | 0 |
@@ -25,5 +25,5 @@
 | [trees](trees) | — | 0 |
 | [trie](trie) | — | 0 |
 | [two-pointers](two-pointers) | — | 0 |
-| **Total** | | **44** |
+| **Total** | | **52** |
 <!-- AUTO:END -->
