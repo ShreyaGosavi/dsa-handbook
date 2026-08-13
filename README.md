@@ -19,7 +19,7 @@
 | [queue](queue) | — | 0 |
 | [segment-tree](segment-tree) | — | 0 |
 | [sliding-window](sliding-window) | atleast-k, atmost-k-trick, expand-to-maximize, fixed-sized-window, frequency-matching-window, shrink to minimize | 36 |
-| [stack](stack) | — | 0 |
+| [stack](stack) | parentheses | 0 |
 | [trees](trees) | — | 0 |
 | [trie](trie) | — | 0 |
 | [two-pointers](two-pointers) | — | 0 |
